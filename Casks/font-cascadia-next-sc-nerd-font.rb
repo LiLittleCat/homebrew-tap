@@ -1,6 +1,6 @@
 cask "font-cascadia-next-sc-nerd-font" do
-  version "1.0.0"
-  sha256 "320ffcafd82ca3709606ad792c1f926d8aee42eb0a5578891c406955c3bc650c"
+  version "1.0.1"
+  sha256 "03bfe7040816e56473fd0f9f89ceaa14d9e26ba750967a750c2f6aba6c79b3e7"
 
   url "https://github.com/LiLittleCat/Cascadia-Next-Nerd-Font/releases/download/v#{version}/CascadiaNextSCNF-ttf.zip"
   name "Cascadia Next SC Nerd Font"
